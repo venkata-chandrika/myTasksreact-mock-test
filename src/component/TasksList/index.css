@@ -1,0 +1,24 @@
+.task-container {
+  list-style: none;
+}
+.task-tag-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1a171d;
+  padding: 10px;
+  margin-left: 0px;
+  margin-top: 20px;
+}
+.option-tag {
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  background-color: #f3aa4e;
+  padding-bottom: 10px;
+  border: none;
+  color: #131213;
+  cursor: pointer;
+  font-weight: bold;
+}

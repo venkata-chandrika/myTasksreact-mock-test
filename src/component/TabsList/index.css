@@ -1,0 +1,20 @@
+.tab-list-item {
+  list-style: none;
+  margin: 10px;
+}
+.tag-btn {
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  background-color: transparent;
+  padding-bottom: 10px;
+  border: 1px solid #f8fafc;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.active {
+  background-color: #f3aa4e;
+  border: none;
+}
